@@ -1,6 +1,6 @@
 # UPV Scraper
 
-![UPV Logo](https://www.innoarea.com/wp-content/uploads/2019/08/UPV-Logo.png)
+![UPV Logo](https://www.upv.es/perfiles/pas-pdi/imagenes/marca_UPV_principal_color300.jpg)
 
 > _Subjects scraper written in Python_
 
